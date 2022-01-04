@@ -1,0 +1,29 @@
+{
+    "projects": {
+        "testdashboard": {
+            "credentialSecret": "huy0832640567"
+        },
+        "node-red-dashboard": {
+            "credentialSecret": false
+        },
+        "test": {
+            "credentialSecret": false
+        },
+        "NODE_RED": {
+            "credentialSecret": false
+        },
+        "DASH1": {
+            "credentialSecret": false
+        },
+        "IOT": {
+            "credentialSecret": false
+        },
+        "CLOCK": {
+            "credentialSecret": false
+        },
+        "IOT2": {
+            "credentialSecret": false
+        }
+    },
+    "activeProject": "IOT2"
+}
